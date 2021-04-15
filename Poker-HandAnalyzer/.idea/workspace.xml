@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfbc4796-b031-4126-8945-032a5dc979cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/PokerHandAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PokerHandAnalyzerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bvgnH3p3pUR9bIphHWu4dL1lAY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.PokerHandAnalyzerTest">
+    <configuration name="PokerHandAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerHandAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerHandAnalyzerTest.jokerFlush" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerHandAnalyzerTest" />
+      <option name="METHOD_NAME" value="jokerFlush" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerHandAnalyzerTest.jokerFullHouse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerHandAnalyzerTest" />
+      <option name="METHOD_NAME" value="jokerFullHouse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerHandAnalyzerTest.jokerStraight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerHandAnalyzerTest" />
+      <option name="METHOD_NAME" value="jokerStraight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PokerHandAnalyzerTest.jokerStraightFlush" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Poker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PokerHandAnalyzerTest" />
+      <option name="METHOD_NAME" value="jokerStraightFlush" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PokerHandAnalyzerTest" />
+        <item itemvalue="JUnit.PokerHandAnalyzerTest.jokerFlush" />
+        <item itemvalue="JUnit.PokerHandAnalyzerTest.jokerStraight" />
+        <item itemvalue="JUnit.PokerHandAnalyzerTest.jokerFullHouse" />
+        <item itemvalue="JUnit.PokerHandAnalyzerTest.jokerStraightFlush" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfbc4796-b031-4126-8945-032a5dc979cd" name="Default Changelist" comment="" />
+      <created>1589518146526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589518146526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="260" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1589767016023">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="260" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1589767016023" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589764601153">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1589764601153" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1594914825736">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1594914825736" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1592229999496">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592229999496" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1592229999496">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592229999496" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1592229999495">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592229999495" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1592229999496">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592229999496" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1589747127243">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1589747127243" />
+    <state x="665" y="446" width="636" height="229" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589518189100">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="665" y="446" width="636" height="229" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/67.27.1853.1053@67.27.1853.1053" timestamp="1589518189100" />
+    <state x="772" y="200" width="432" height="705" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590008395241">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="772" y="200" width="432" height="705" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1590008395241" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589767064622">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1589767064622" />
+  </component>
+</project>
