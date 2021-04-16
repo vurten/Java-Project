@@ -1,0 +1,99 @@
+@startuml
+
+enum "Alphabet" {
+  A
+  B
+  C
+  D
+  E
+  F
+  G
+  H
+  J
+  value
+}
+
+class "Board" {
+  boardSize : int
+  board : String[][]
+  playedStones : List<Stone>
+  generateBoard(List<Player>) : String
+}
+
+enum "Color" {
+  BLACK
+  WHITE
+}
+
+class "Controller"
+
+class "East" {
+  free : boolean
+  updateLiberties(Stone, ArrayList<Player>, boolean)
+}
+
+interface "Liberties" {
+  updateLiberties(Stone, ArrayList<Player>, boolean)
+}
+
+class "North" {
+  free : boolean
+  updateLiberties(Stone, ArrayList<Player>, boolean)
+}
+
+class "Player" {
+  moveHistoryStones : List<Stone>
+  stoneGroup : List<StoneGroup>
+  addStone(Stone)
+  updateGroupsLiberties()
+}
+
+class "Position" {
+  x : int
+  y : int
+}
+
+class "South" {
+  free : boolean
+  updateLiberties(Stone, ArrayList<Player>, boolean)
+}
+
+class "Stone" {
+  color : Color
+  position : Position
+  liberties : ArrayList<Liberties>
+}
+
+class "StoneGroup" {
+  stoneGroup : List<Stone>
+  libertyList : List<Liberties>
+  initGroupLiberties(List<Liberties>)
+  isFromGroup(Stone) : boolean
+  updateGroupLiberties()
+}
+
+class "Move" {
+
+}
+
+class "West" {
+  free : boolean
+  updateLiberties(Stone, ArrayList<Player>, boolean)
+}
+
+"Board" --> "2" "Player" : use
+"Liberties" <|-up- "East"
+"Liberties" <|-down- "North"
+"Liberties" <|-down- "South"
+"Liberties" <|-up- "West"
+"Liberties" "*" <--* "Stone" : use/liberties
+"Player" --> "*" "Stone" : moveHistoryStones
+"Player" --> "*" "StoneGroup" : stoneGroup
+"Stone" o-- "Color" : color
+"StoneGroup" "1" -left-* "1..*" "Stone" : stoneGroup
+"Stone" *-- "Position" : position
+"Alphabet" -left-> Controller
+"Board" <-right- "Controller"
+"Controller" --> "2" Player
+"Controller" -left-> Move
+@enduml
