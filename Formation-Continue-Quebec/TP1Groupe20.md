@@ -31,19 +31,11 @@
 
 - ##### Code permanent : `OKIK08078702`
 
-- ##### Adresse courriel : okitapoy@gmail.com
-
-- #####  Joignable par  mail : `okitapoy@gmail.com`
-
 - ##### Le groupe Facebook «` inf2050-travail de session` »
-
-- #####  Cellulaire : `4385806076`
 
 - #####  Les disponibilités : `de 10H AM a 12H AM toute la semaine et de 19H PM à 21H PM la fin de semaine`
 
 - #####  Forces : `Java, HMTL, CSS, JavaScript`
-
-- #####  Faiblesse : `Linux (les commandes du terminal)`
 
 - #####  Identifiant GitHub :  `okitapoy`
 ---
@@ -53,19 +45,12 @@
 
 - #####   Code permanent : ZIOK29129007
 
-- #####   Adresse courriel : zioual.khaled@gmail.com
-
-- #####   Joignable par : mail : zioual.khaled@gmail.com
-
 - #####   Le groupe Facebook « `inf2050-travail de session `»
 
-- #####   Cellulaire : 514 791 8092
 
 - #####   Les disponibilités : `de 10 AM à 2 AM toute la semaine`
 
-- #####   Forces : J`AVA et bash script`
-
-- #####   Faiblesse :`Rédiger des rapports`
+- #####   Forces : `JAVA et bash script`
 
 - #####   Identifiant GitHub : `khaled-zioual`
 ---
@@ -76,19 +61,11 @@
 
 - #####  Code permanent : `CHAM27088802`
 
-- #####  Adresse courriel : mhmd.chaouki@gmail.com
-
-- #####  Joignable par : mail : mhmd.chaouki@gmail.com
-
 - #####  Le groupe Facebook « `inf2050-travail de session` »
-
-- #####  Cellulaire : `4388789555`
 
 - #####  Les disponibilités : `de 9 AM à 1 AM toute la semaine`
 
 - #####  Forces : `JAVA et Rédiger des rapports`
-
-- #####  Faiblesse : `LINUX`
 
 - #####  Identifiant GitHub: `vurten`
 - --
