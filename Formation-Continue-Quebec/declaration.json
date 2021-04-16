@@ -1,0 +1,41 @@
+{
+  "nom": "Berger",
+  "prenom": "Jacque",
+  "sexe": 1,
+  "numero_de_permis": "BJ9575",
+  "ordre": "géologues",
+  "cycle": "2016-2019",
+  "activites": [{
+    "description": "Cours sur la déontologie",
+    "categorie": "cours",
+    "heures": 25,
+    "date": "2016-11-20"
+  },
+    {
+      "description": "Migration de système orienté objet ",
+      "categorie": "projet de recherche",
+      "heures": 5,
+      "date": "2018-06-02"
+    },
+    {
+      "description": "Participation à un groupe de discussion",
+      "categorie": "groupe de discussion",
+      "heures": 5,
+      "date": "2019-04-01"
+    },
+    {
+      "description": "Laboratoire de programmation",
+      "categorie": "atelier",
+      "heures": 15,
+      "date": "2017-06-07"
+    },
+    {
+      "description": "Séminaire sur l'architecture contemporaine",
+      "categorie": "séminaire",
+      "heures": 5,
+      "date": "2018-01-07"
+    }
+  ]
+}
+
+
